@@ -6,7 +6,7 @@
 ## This function creates a special vector (list) with four functions, one that
 ## sets de value of the given matrix x, one that gets the value of the given
 ## matrix x, one that sets the inverse of the matrix x, and one that gets the
-## value of inverse of the matrix x
+## value of inverse of the matrix x.
 
 
 makeCacheMatrix <- function(x = matrix()) {
